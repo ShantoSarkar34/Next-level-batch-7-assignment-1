@@ -52,6 +52,11 @@ class Student extends Person {
   }
 }
 
-function getIntersection(array1: number[], array2: number[]): number[] {
-  return array1.filter((num) => array2.includes(num));
-}
+
+type arrayOfNumber = number[]
+
+const getIntersection = (array1: arrayOfNumber, array2: arrayOfNumber): arrayOfNumber => {
+  const set2 = new Set(array2);
+  return [...new Set(array1.filter(item => set2.has(item)))];
+};
+
