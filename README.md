@@ -25,10 +25,10 @@ The goal is to implement efficient, readable, and scalable solutions using TypeS
 
 ## 📂 Project Structure
 
-├── blog-1.md
-├── blog-2.md
-├── solutions.ts
-└── README.md
+- blog-1.md → Notes on TypeScript Generics
+- blog-2.md → Notes on OOP Principles in TypeScript
+- solutions.ts → TypeScript solutions for assignment problems
+- README.md → Project documentation
 
 ## 📚 Topics Covered
 
