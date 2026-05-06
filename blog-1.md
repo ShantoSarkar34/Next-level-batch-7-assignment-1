@@ -81,7 +81,3 @@ function getFirstElement<T>(arr: T[]): T {
 ## Conclusion
 
 Generics are very useful in TypeScript. They help us write flexible and reusable code while keeping type safety. At first they may feel confusing, but with practice they become easy to understand.
-
-```
-
-```
