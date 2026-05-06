@@ -43,9 +43,9 @@ Here, Student reuses the properties of Person.
 
 ## Why it helps:
 
-Reduces duplicate code
-Makes code reusable
-Easier to manage related classes
+- Reduces duplicate code
+- Makes code reusable
+- Easier to manage related classes
 
 ---
 
@@ -77,9 +77,9 @@ class Cat extends Animal {
 
 ## Why it helps:
 
-Same method name, different behavior
-Makes code flexible
-Easier to extend features
+- Same method name, different behavior
+- Makes code flexible
+- Easier to extend features
 
 ---
 
@@ -103,9 +103,9 @@ class Car extends Vehicle {
 
 ## Why it helps:
 
-Hides complex logic
-Focuses only on important features
-Improves code clarity
+- Hides complex logic
+- Focuses only on important features
+- Improves code clarity
 
 ---
 
@@ -131,17 +131,17 @@ class BankAccount {
 
 ## Why it helps:
 
-Protects data from direct access
-Improves security
-Prevents unwanted changes
+- Protects data from direct access
+- Improves security
+- Prevents unwanted changes
 
 ## Why These Four Pillars Are Important
 
-Reduce code duplication
-Make code easier to maintain
-Improve scalability
-Organize large projects better
-Make debugging easier
+- Reduce code duplication
+- Make code easier to maintain
+- Improve scalability
+- Organize large projects better
+- Make debugging easier
 
 ## Conclusion
 
