@@ -38,8 +38,6 @@ The goal is to implement efficient, readable, and scalable solutions using TypeS
 - Union & Intersection types
 - Array & Object typing
 - Type safety concepts
-- (Add more if you learned extra topics)
-
 ---
 
 ## 📝 Blog Articles
